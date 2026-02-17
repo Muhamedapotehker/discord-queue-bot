@@ -1037,3 +1037,6 @@ async def result_cmd(interaction: discord.Interaction):
             )
     
     await interaction.response.send_modal(ResultModal())
+    
+# Richtig:
+bot.run(os.environ.get("MTQ3Mjc2Mjc0MzMxOTk1Nzc5OA.GxK_-Y.0uH9RYgH3gilmHIsCpeDatQTTLYicK0GRNOiTE"))
