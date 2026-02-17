@@ -1037,4 +1037,3 @@ async def result_cmd(interaction: discord.Interaction):
             )
     
     await interaction.response.send_modal(ResultModal())
-    
