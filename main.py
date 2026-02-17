@@ -1040,4 +1040,4 @@ async def result_cmd(interaction: discord.Interaction):
 
 # Start
 keep_alive()
-bot.run("MTQ3Mjc2Mjc0MzMxOTk1Nzc5OA.GsndhM.MDhhheXK2aCdp-fv0pnn4N0_d_uc7lEHjo-4Xg")
+bot.run("MTQ3Mjc2Mjc0MzMxOTk1Nzc5OA.GLDjBl.w3IyfvcUKbBjoFwLUv_axiTvgLtS9gn7AcLysM")
