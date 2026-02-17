@@ -221,14 +221,14 @@ RANK_ROLES = {
 
 # Gamemode Config mit Rollen und Channel IDs
 GAMEMODES = {
-    "nethpot": {"role_id": 1473103962428412025, "category_id": 1473104195274932395, "channel_id": 1473104526968881308, "waitlist_id": 1473104076840370350, "emoji": "🔪"},
-    "smp": {"role_id": 1473103965649506556, "category_id": 1473104226799321160, "channel_id": 1473104544161599710, "waitlist_id": 1473104080779088067, "emoji": "👑"},
-    "uhc": {"role_id": 1473103964831481928, "category_id": 1473104190485299260, "channel_id": 1473104554743697418, "waitlist_id": 1473104083211649159, "emoji": "❤️"},
-    "sword": {"role_id": 1473103960431661076, "category_id": 1473104187339571412, "channel_id": 1473104534141272064, "waitlist_id": 1473104077977026641, "emoji": "🗡️"},
-    "axe": {"role_id": 1473103966589157498, "category_id": 1473104229500715010, "channel_id": 1473104552084639744, "waitlist_id": 1473104082225987786, "emoji": "🪓"},
-    "crystal": {"role_id": 1473103961581162538, "category_id": 1473104193051955455, "channel_id": 1473104541074325626, "waitlist_id": 1473104079759605770, "emoji": "💣"},
-    "mace": {"role_id": 1473103967125897217, "category_id": 1473104232805564508, "channel_id": 1473104538012745912, "waitlist_id": 1473104078379679901, "emoji": "🔨"},
-    "diapot": {"role_id": 1473103963401486522, "category_id": 1473104234982539315, "channel_id": 1473104530509008926, "waitlist_id": 1473104089218023474, "emoji": "💎"}
+    "nethpot": {"role_id": 1473104076840370350, "category_id": 1473104195274932395, "channel_id": 1473104526968881308, "waitlist_id": 1473104076840370350, "emoji": "🔪"},
+    "smp": {"role_id": 1473104080779088067, "category_id": 1473104226799321160, "channel_id": 1473104544161599710, "waitlist_id": 1473104080779088067, "emoji": "👑"},
+    "uhc": {"role_id": 1473104083211649159, "category_id": 1473104190485299260, "channel_id": 1473104554743697418, "waitlist_id": 1473104083211649159, "emoji": "❤️"},
+    "sword": {"role_id": 1473104077977026641, "category_id": 1473104187339571412, "channel_id": 1473104534141272064, "waitlist_id": 1473104077977026641, "emoji": "🗡️"},
+    "axe": {"role_id": 1473104082225987786, "category_id": 1473104229500715010, "channel_id": 1473104552084639744, "waitlist_id": 1473104082225987786, "emoji": "🪓"},
+    "crystal": {"role_id": 1473104079759605770, "category_id": 1473104193051955455, "channel_id": 1473104541074325626, "waitlist_id": 1473104079759605770, "emoji": "💣"},
+    "mace": {"role_id": 1473104078379679901, "category_id": 1473104232805564508, "channel_id": 1473104538012745912, "waitlist_id": 1473104078379679901, "emoji": "🔨"},
+    "diapot": {"role_id": 1473104089218023474, "category_id": 1473104234982539315, "channel_id": 1473104530509008926, "waitlist_id": 1473104089218023474, "emoji": "💎"}
 }
 
 temp_verify = {}
