@@ -1037,7 +1037,3 @@ async def result_cmd(interaction: discord.Interaction):
             )
     
     await interaction.response.send_modal(ResultModal())
-
-# Start
-keep_alive()
-bot.run("MTQ3Mjc2Mjc0MzMxOTk1Nzc5OA.GLDjBl.w3IyfvcUKbBjoFwLUv_axiTvgLtS9gn7AcLysM")
